@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrebal98&label=Profile%20views&color=1f6feb&style=flat" alt="emrebal98" /> </p>
 
 -   🤝 I am looking for an internship, preferably in **web development**.
+-   ⚡ I’m currently working on [React Icons Viewer](https://github.com/emrebal98/react-icons-viewer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
