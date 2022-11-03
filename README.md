@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">Currently 4th year Computer Engineering student</h3>
+<h3 align="center">Currently, senior year Computer Engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrebal98&label=Profile%20views&color=1f6feb&style=flat" alt="emrebal98" /> </p>
 
