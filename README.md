@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrebal98&label=Profile%20views&color=1f6feb&style=flat" alt="emrebal98" /> </p>
 
--   🤝 I am looking for a remote job, preferably in **web development** with using **TypeScript**, **React** or **Next.js**.
+-   🎉 I finished my website. --> [My website](https://emrebal.com/)
 -   ⚡ I’m currently learning Next.js with using [T3 stack](https://github.com/t3-oss/create-t3-app/).
 
 <h3 align="left">Connect with me:</h3>
