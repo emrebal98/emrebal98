@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrebal98&label=Profile%20views&color=1f6feb&style=flat" alt="emrebal98" /> </p>
 
--   🎉 I finished my website. --> [My website](https://emrebal.com/)
--   ⚡ I’m currently learning Next.js with using [T3 stack](https://github.com/t3-oss/create-t3-app/).
+-   🎉 My personal [website](https://emrebal.com/).
+-   ⚡ I’m currently working on [Freshery Shop Turborepo](https://github.com/emrebal98/freshery-shop-monorepo).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
