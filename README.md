@@ -11,35 +11,35 @@ I am a highly motivated **Software Developer**, focused on web development.
 - 💬 Contact me on [Linkedin](https://linkedin.com/in/emrebal98).
 
 <p align="left">
-    <a href="https://nextjs.org/">
+    <a href="https://nextjs.org/" title="NextJS">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="images/next.js-light.svg" width="30" height="30">
             <source media="(prefers-color-scheme: light)" srcset="images/next.js-dark.svg" width="30" height="30">
             <img alt="Github stats" src="images/next.js-dark.svg" alt="nextjs" width="30" height="30" />
         </picture>   
     </a>
-    <a href="https://reactjs.org/"> 
+    <a href="https://reactjs.org/" title="ReactJS"> 
         <img alt="reactjs" src="images/react.svg" width="30" height="30"/>
     </a>
-    <a href="https://www.typescriptlang.org/"> 
+    <a href="https://www.typescriptlang.org/" title="TypeScript"> 
         <img alt="typescript" src="images/typescript.svg" width="30" height="30"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" title="JavaScript">
         <img alt="javascript" src="images/javascript.svg" width="30" height="30"/> 
     </a>
-    <a href="https://tailwindcss.com/"> 
+    <a href="https://tailwindcss.com/" title="TailwindCSS"> 
         <img alt="tailwindcss" src="images/tailwind.svg" width="30" height="30"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
         <img alt="css" src="images/css.svg" width="30" height="30"/>
     </a>
-    <a href="https://nodejs.org/"> 
+    <a href="https://nodejs.org/" title="NodeJS"> 
         <img alt="nodejs" src="images/nodejs.svg" width="30" height="30"/>
     </a>
-    <a href="https://www.prisma.io/">
+    <a href="https://www.prisma.io/" title="Prisma">
         <img alt="prisma" src="images/prisma-light.svg" width="30" height="30"/>
     </a>
-    <a href="https://www.mysql.com">
+    <a href="https://www.mysql.com" title="MySQL">
         <img alt="mysql" src="images/mysql.svg" width="30" height="30"/>
     </a>
 </p>
