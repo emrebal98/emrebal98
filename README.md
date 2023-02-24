@@ -15,7 +15,7 @@ I am a highly motivated **Software Developer**, focused on web development.
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="images/next.js-light.svg" width="30" height="30">
             <source media="(prefers-color-scheme: light)" srcset="images/next.js-dark.svg" width="30" height="30">
-            <img alt="Github stats" src="images/next.js-dark.svg" alt="nextjs" width="30" height="30" />
+            <img src="images/next.js-dark.svg" alt="nextjs" width="30" height="30" />
         </picture>   
     </a>
     <a href="https://reactjs.org/" title="ReactJS"> 
@@ -37,7 +37,11 @@ I am a highly motivated **Software Developer**, focused on web development.
         <img alt="nodejs" src="images/nodejs.svg" width="30" height="30"/>
     </a>
     <a href="https://www.prisma.io/" title="Prisma">
-        <img alt="prisma" src="images/prisma-light.svg" width="30" height="30"/>
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="images/prisma-light.svg" width="30" height="30">
+            <source media="(prefers-color-scheme: light)" srcset="images/prisma-dark.svg" width="30" height="30">
+            <img src="images/prisma-dark.svg" alt="prisma" width="30" height="30" />
+        </picture>
     </a>
     <a href="https://www.mysql.com" title="MySQL">
         <img alt="mysql" src="images/mysql.svg" width="30" height="30"/>
