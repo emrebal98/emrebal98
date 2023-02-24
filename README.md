@@ -8,7 +8,7 @@ I am a highly motivated **Software Developer**, focused on web development.
 
 - 🎉 My personal [website](https://emrebal.com/).
 - ⚡ I’m currently working on [Freshery Shop Turborepo](https://github.com/emrebal98/freshery-shop-monorepo).
-- 💬 Contact me on [Linkedin](https://linkedin.com/in/emrebal98)
+- 💬 Contact me on [Linkedin](https://linkedin.com/in/emrebal98).
 
 <p align="left">
     <a href="https://nextjs.org/">
