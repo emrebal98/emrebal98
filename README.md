@@ -4,10 +4,9 @@
     </a>
 </h1>
 
-I am a highly motivated **Software Developer**, focused on web development.
+I am a highly motivated **Software Engineer**, focused on web development.
 
 - 🎉 My personal [website](https://emrebal.com/).
-- ⚡ I’m currently working on [Freshery Shop Turborepo](https://github.com/emrebal98/freshery-shop-monorepo).
 - 💬 Contact me on [Linkedin](https://linkedin.com/in/emrebal98).
 
 [![nextjs](https://raw.githubusercontent.com/emrebal98/emrebal98/main/images/next.js-light.svg#gh-dark-mode-only 'NextJS')](https://nextjs.org/#gh-dark-mode-only)
